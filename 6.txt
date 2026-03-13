@@ -1,0 +1,1 @@
+Experiment 6: Study of a terminal based text editor such as Vim or Emacs. Basic editor operations including cursor movement, text manipulation, pattern searching, and performing global search and replace.
